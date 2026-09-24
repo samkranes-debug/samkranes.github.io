@@ -1,1 +1,6 @@
-
+const products = [
+}
+id: 1
+name: "Original Tee",
+price: $35.99,
+image:
